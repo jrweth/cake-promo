@@ -46,17 +46,16 @@
 - Foreach Animation
 -- go back to mixamo and choose animation you want to download
 -- download as [Name][Dance].fbx (animation only - no mesh)
--- creeate new empty scene
--- rename to match animation
--- create new collection [Name][Dance]
+-- creeate new blender file
+-- link to [Name]Mixamo.blend
+-- Import Pose collection
+-- hit F3 and search for make proxy
+-- select the armature to proxy
+-- import the [Name][Dance].fbx
 -- import animation .fbx file
--- go back to pose scene and select armature add all mesh objects
--- hit ctrl-l and link to your newly created scene
--- Go back to dance scene and move all linked objects into the [Name][Dance] collection
--- Hide the [Name][Dance] collection
--- Go to dance armature and change to object mode and select all "a"
--- open Animation editor go to key frames and select all and copy
+-- go to animation/pose mode/select all bones and copy animation
 
+-- select the armature for proxy object
 -- go to animation tab
 -- go to pose mode
 -- switch to characater animation scene
@@ -64,7 +63,8 @@
 -- "a" to select all
 -- goto frame 1
 -- "i" to insert keyframe at 0 (choose location, rotation, scale)
-- 
+-- cntl-v to paste animation
+-- delete unrigged animation
 
 
 
