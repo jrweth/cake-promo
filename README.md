@@ -5,6 +5,7 @@
 - Create Model in Text Tools
 - Export to TexTools Folder
 - Copy Entire Folder into Models
+- Try to upload .fbx to mixamo if  yes skip way down below
 - Create new Blender File in Models file (Save as [Name]Mesh.blend)
 - Remove all Bones / lights /cameras
 - Select all objects
