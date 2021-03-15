@@ -1,3 +1,22 @@
 cake_render
 cake_video
 *.blend1
+
+Models/Quix/.gitattributes
+Models/Quix/QuixMeshOnly.fbx
+Models/Quix/QuixRumba.fbx
+Models/Quix/quick_rumba.blend
+Models/Quix/quix.blend
+Models/QuixRocinante/MixamoFixed/
+Models/QuixRocinante/QuixIdle.fbx
+Models/QuixRocinante/QuixRocinanteMeshFixed.blend
+Models/QuixRocinante/QuixRocinanteMixamoFirst.blend
+Models/QuixRocinante/QuixRocinanteMixamoFixed.blend
+Models/QuixRocinante/QuixRocinanteMixamoFixed.fbx
+Models/QuixRocinante/QuixRocinanteMixamoOrig.fbx
+Models/QuixRocinante/QuixRumbaDancing.fbx
+Models/QuixRocinante/Rumba Dancing.fbx
+Models/animation_test.blend
+quix.blend
+untitled.blend
+
