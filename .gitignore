@@ -1,4 +1,11 @@
-cake_render
+cake_render/*.png
+cake_render/QuixRumba/*.png
+cake_render/BackPanOrig/*.png
+cake_render/BackPan/*.png
+cake_render/CharacterFocus/*.png
+cake_render/PackPan/*.png
+cake_render/PullBack/*.png
+cake_render/PaPaya/*.png
 cake_video
 *.blend1
 
